@@ -1,3 +1,0 @@
-Bismillah....
-
-This application is used to track you daily expenses and give you a complete record so that you can manage your finances easily 😄. 
