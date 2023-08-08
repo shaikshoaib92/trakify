@@ -8,7 +8,7 @@ export const NavStyles = {
     gap: "20px",
     width: "15%",
     backgroundColor: "#A084E8",
-    height: "100vh",
+    height: "97.5vh",
     boxShadow: " 12px -1px 40px -9px rgba(160,132,232,1)",
     paddingLeft:"20px",
     paddingTop:"20px"
