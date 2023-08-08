@@ -26,4 +26,8 @@ export const NavStyles = {
     fontFamily: montserrat.style.fontFamily,
     fontSize:"16px"
   })),
+  
+  Img: styled("img")(()=>({
+    // mixBlendMode:"color-burn"
+  }))
 };

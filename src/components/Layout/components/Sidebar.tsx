@@ -9,6 +9,7 @@ import TrendingUpIcon from "@mui/icons-material/TrendingUp";
 const Sidebar = () => {
   return (
     <NavStyles.Container>
+       {/* <NavStyles.Img src="./trakify-logo.png"/> */}
       <NavStyles.SubContainer>
         <SpaceDashboardIcon
           sx={{
