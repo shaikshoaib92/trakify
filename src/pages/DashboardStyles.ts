@@ -32,13 +32,23 @@ export const DashboardStyles = {
     height: "400px",
     backgroundColor: "#A084E8",
     borderRadius: "9px",
-    padding: "10px",
+    padding: "20px",
     justifyContent: "flex-start",
+  })),
+
+  TranssactionInnerDiv: styled("div")(()=>({
+    display:"flex",
+    flexDirection:"column",
+    justifyContent:"center",
+    alignItems:"center",
+height:"100%"
   })),
 
   TransactionSubDev: styled("div")(() => ({
     display: "flex",
-    gap: "15px",
+    justifyContent:"space-between",
+    width:"70%"
+
   })),
 
   TransactionText: styled("p")(() => ({
